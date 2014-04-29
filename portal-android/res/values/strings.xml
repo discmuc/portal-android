@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">c2b Portal</string>
+    <string name="testtext">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</string>
+    <string name="menu_name">Choose a perspective</string>
+
+    <string-array name="nav_leftmenu">
+        <item>Home</item>
+        <item>Favorites</item>
+        <item>Address Book</item>
+        <item>Communication</item>
+        <item>Master Data</item>
+        <item>File Management</item>
+        <item>Administration</item>
+        <item>SETTINGS</item>
+        <item>OPEN WEBSITE</item>
+        <item>ABOUT</item>
+    </string-array>
+
+    <string name="action_settings">Clipboard</string>
+
+</resources>

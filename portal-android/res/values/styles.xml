@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- API level dependent modifications -->
+    <style name="app_base_theme" parent="android:Theme.Holo.Light.DarkActionBar">
+    </style>
+
+    <!-- API level independent modifications -->
+    <style name="app_theme" parent="app_base_theme">
+    </style>
+
+</resources>
